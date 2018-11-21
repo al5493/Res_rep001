@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Res_rep001</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_for_video">ForVideo</string>
+    <string name="title_activity_gpsview">GPSview</string>
+    <string name="title_activity_send_files">SendFiles</string>
+</resources>
